@@ -1,2 +1,2 @@
-# C-Calculator
-C++ Calculator and Doxygen Documentation + HTML
+# CPP-Calculator
+C++ Calculator and Doxygen Documentation 
